@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Code Editor</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	
+    <div class="header"> <h3>HTML Code Editor<h3>
+	  </div>
+
+    <div class="code-area"><br>
+      <textarea id="htmlCode" placeholder="HTML Code" oninput="showPreview()"></textarea>
+      <textarea id="cssCode" placeholder="CSS Code" oninput="showPreview()"></textarea>
+      <textarea id="jsCode" placeholder="JavaScript Code" oninput="showPreview()"></textarea>				
+    </div>
+
+    <div class="preview-area"><br>
+      <iframe id="preview-window"></iframe>
+    </div>
+
+    <div class="footer">
+        <h2>Created by Aadil Siddiquee </h2>
+    </div>
+
+  <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
