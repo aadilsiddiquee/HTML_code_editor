@@ -1,4 +1,4 @@
-# <p align="center"> HTML Code Editor </p>
+# <p align="center"> HTML Code Editor <br><br> <img src="https://github.com/aadilsiddiquee/HTML_code_editor/blob/main/image.png?raw=true" alt="HTML Code Editor" width="500" height="250" align="center"> </p>
 
 ## Introduction
 The HTML Code Editor is a tool that empowers developers and web enthusiasts to create, experiment with, and visualize <b>HTML, CSS, and JavaScript</b> code in real-time. Whether you're a beginner learning the basics of web development or a seasoned developer looking for a rapid prototyping tool, this editor provides an accessible and efficient platform for your coding needs.
